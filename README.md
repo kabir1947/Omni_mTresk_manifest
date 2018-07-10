@@ -58,7 +58,7 @@ familiar with [Git and Repo](https://source.android.com/source/using-repo.html).
 
 To initialize your local repository using the OmniROM trees, use a command like this:
 
-    repo init -u git://github.com/mtresk/android.git -b android-8.1
+    repo init -u git://github.com/kabir1947/android.git -b android-8.1
 
 Then to sync up:
 
@@ -67,6 +67,7 @@ Then to sync up:
 Then to build:
 
      cd <source-dir>; . build/envsetup.sh; brunch <device_name>
+     . build/envsetup.sh && brunch potter
 
 
 If you need more information or a more detailed guide, click [here to see our wiki.](http://docs.omnirom.org)
