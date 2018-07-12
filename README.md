@@ -58,7 +58,7 @@ familiar with [Git and Repo](https://source.android.com/source/using-repo.html).
 
 To initialize your local repository using the OmniROM trees, use a command like this:
 
-    repo init -u git://github.com/kabir1947/android.git -b android-8.1
+    repo init -u https://github.com/kabir1947/Omni_mTresk_manifest.git -b android-8.1
 
 Then to sync up:
 
